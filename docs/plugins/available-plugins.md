@@ -17119,7 +17119,7 @@ tests | <b>3</b> | The more tests a plugin has, the better
 
 <div class="quality-index" style="color: #558000">48</div>
 
-<h3 id="get_application_id"><a href="https://github.com/hpinhal/fastlane-plugin-get_application_id" target="_blank"><code>get_application_id</code></a></h3>
+<h3 id="get_application_id"><a href="https://github.com/hpinhal/fastlane-plugin-get-application-id" target="_blank"><code>get_application_id</code></a></h3>
 
 <p class="via-text">via Helder Pinhal</p>
 
